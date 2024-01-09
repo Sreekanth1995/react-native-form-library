@@ -5,4 +5,4 @@ This library provides a customizable form component for React Native application
 ## Installation
 
 ```bash
-npm install react-native-form-library
+npm install react-native-form-library-archive
