@@ -1,0 +1,22 @@
+{
+  "name": "react-native-form-library",
+  "version": "1.0.0",
+  "description": "Use this library to present the form. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sreekanth1995/react-native-form-library.git"
+  },
+  "keywords": [
+    "FormLibrary"
+  ],
+  "author": "Sreekanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sreekanth1995/react-native-form-library/issues"
+  },
+  "homepage": "https://github.com/Sreekanth1995/react-native-form-library#readme"
+}
